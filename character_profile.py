@@ -4,6 +4,8 @@
 # Lab number: 1 
 # Assignment title: Character profile and Favorite quote 
 # Date: 9/10/2026
-name="Character Profile: Rory Gilmore"
-Age="16"
-Occupation=""
+name="Character Profile: Lorelai Gilmore"
+Age="32"
+Occupation="Hotel manager"
+Print("Important accomplishment: Owning her own inn")
+Print("Interesting ")
