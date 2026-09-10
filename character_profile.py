@@ -8,4 +8,6 @@ name="Character Profile: Lorelai Gilmore"
 Age="32"
 Occupation="Hotel manager"
 Print("Important accomplishment: Owning her own inn")
-Print("Interesting ")
+Print("Interesting fact: She can smell when it is about to snow")
+Print("Favorite food: pizza")
+Print("Personality: funny and whitty")
